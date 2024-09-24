@@ -6,7 +6,6 @@ Author- Pragnyananda Behera (demo)
  Ok Done
  <br>
  git commands
- -
  --> git clone <repository name>
  --> git status
  --> git add <file name>
