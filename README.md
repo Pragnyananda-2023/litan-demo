@@ -7,9 +7,9 @@ Author- Pragnyananda Behera (demo)
  <br>
  git commands
  -
- --> <!-- git clone <repository name> -->
- --> <!-- git status -->
- --> <!-- git add <file name> -->
- --> <!-- git add . -->
- --> <!-- git commit -m "<message>" -->
- --> <!-- git push origin main -->
+ --> git clone <repository name>
+ --> git status
+ --> git add <file name>
+ --> git add .
+ --> git commit -m "<message>"
+ --> git push origin main
