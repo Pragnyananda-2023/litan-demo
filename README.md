@@ -1,4 +1,4 @@
 # litan-demo
 This is my first repository
 <br>
-Author- Pragnyananda Behera
+Author- Pragnyananda Behera (demo)
