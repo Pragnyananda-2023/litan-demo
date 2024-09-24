@@ -6,3 +6,9 @@ Author- Pragnyananda Behera (demo)
  Ok Done
  <br>
  checking again
+ <!-- git clone <repository name> -->
+ <!-- git status -->
+ <!-- git add <file name> -->
+ <!-- git add . -->
+ <!-- git commit -m "<message>" -->
+ <!-- git push origin main -->
