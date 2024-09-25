@@ -7,9 +7,11 @@ Author- Pragnyananda Behera (demo)
  <br>
  git commands
  --> git init <br>
- --> git clone <repository name> <br>
+ --> git clone (repository name) <br>
  --> git status <br>
- --> git add <file name> <br>
+ --> git add (file name) <br>
  --> git add . <br>
- --> git commit -m "<message>" <br>
+ --> git commit -m "(message)" <br>
  --> git push origin main <br>
+
+ git repo --> clone --> changes --> add --> commit --> push
