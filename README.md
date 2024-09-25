@@ -6,9 +6,10 @@ Author- Pragnyananda Behera (demo)
  Ok Done
  <br>
  git commands
- --> git clone <repository name>
- --> git status
- --> git add <file name>
- --> git add .
- --> git commit -m "<message>"
- --> git push origin main
+ --> git init <br>
+ --> git clone <repository name> <br>
+ --> git status <br>
+ --> git add <file name> <br>
+ --> git add . <br>
+ --> git commit -m "<message>" <br>
+ --> git push origin main <br>
